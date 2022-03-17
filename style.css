@@ -506,3 +506,15 @@ header {
 }
 
 /*--------------------*/
+
+/*Footer*/
+
+.footer {
+	display: flex;
+    font-size: 1.3em;
+    padding: 5px 20px;
+    align-items: center;
+}
+.link_github {
+	margin-right: auto;
+}
