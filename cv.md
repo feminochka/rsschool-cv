@@ -99,3 +99,9 @@ dots.forEach((item, indexDot) =>{
 
 setInterval(nextSlide, 2500)
 ```
+
+### Education and courses:
+-------------------
++ **University:** [BELARUS STATE ECONOMIC UNIVERSITY](http://bseu.by/), Economist-Manager
++ **University:** [Belarusian State University of Food and Chemical Technologies](https://bgut.mogilev.biz/), Process Engineer
++ **Courses:** IT-Overone, WayUP, RS School stage 0, at moment student RS School stage 1
